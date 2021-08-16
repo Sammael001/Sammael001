@@ -2,7 +2,7 @@
 - 🖥️ I'm a full-stack web developer specializing in front-end technologies like React and NextJS.
 - 💚 I love learning new technologies and always enjoy a challenge.
 <!--- ✨ Take a look at my portfolio here: --->
-- 📝 You can see my resume here: https://github.com/Sammael001/new-public-portfolio/raw/master/updated%20resume%20rtf.rtf
+- 📝 LinkedIn Profile page: ((pending))
 - 📧 Or email me at sylviaisworking@gmail.com
 
 <!---

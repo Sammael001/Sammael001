@@ -4,7 +4,7 @@
 
 - [✨ Portfolio Site](https://sylvia-is-working.vercel.app/)
 - [🔗 LinkedIn Profile](https://www.linkedin.com/in/sylviaisworking/)
-- [📝 Download Resume](https://sylvia-is-working.vercel.app/Sylvia%20Moore%20NEW%20Resume.pdf)
+- [📝 See My Resume Here](https://sylvia-is-working.vercel.app/Sylvia%20Moore%20NEW%20Resume.pdf)
 - 📧 Or email me at sylviaisworking@gmail.com
 
 <!---
